@@ -6,8 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/spec0/Desktop/Project/2023/04/Toy001/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/spec0/Desktop/Project/2023/04/Toy001/Content/Minimal_Default1.umap",
-				"C:/Users/spec0/Desktop/Project/2023/04/Toy001/Content/Maze.umap"
+				"C:/Users/spec0/Desktop/Project/2023/04/Toy001/Content/Maze.umap",
+				"C:/Users/spec0/Desktop/Project/2023/04/Toy001/Content/BP_Boss.uasset",
+				"C:/Users/spec0/Desktop/Project/2023/04/Toy001/Content/Boss.uasset",
+				"C:/Users/spec0/Desktop/Project/2023/04/Toy001/Content/Minimal_Default1.umap"
 			]
 		}
 	]
